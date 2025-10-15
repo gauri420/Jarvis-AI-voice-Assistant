@@ -30,5 +30,5 @@ This project is inspired by *J.A.R.V.I.S from Iron Man* – a personal AI system
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/Muskan1923/jarvis-voice-assistant.git
+git clone https://github.com/gauri1923/jarvis-voice-assistant.git
 cd jarvis-voice-assistant
