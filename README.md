@@ -28,6 +28,3 @@ Language: Python
 Libraries: PyQt5, SpeechRecognition, pyttsx3, OpenAI, Requests, Webbrowser, OS
 APIs: OpenAI GPT API, YouTube Data API, News API
 
-1. Clone the repository
-git clone https://github.com/Muskan1923/jarvis-voice-assistant.git
-cd jarvis-voice-assistant
